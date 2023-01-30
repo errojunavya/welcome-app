@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100%;
+  background-color: #1e293b;
+}
+.heading {
+  font-family: 'Bree Serif';
+  font-size: 80px;
+  color: #f0bb03;
+  font-weight: 500;
+}
+.para {
+  font-family: 'Bree Serif';
+  font-size: 50px;
+  color: #ffffff;
+  font-weight: 500;
+}
+
+.button {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: 'Bree Serif';
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin: 8px;
+  background-color: #ffffff;
+  border: none;
+  border-radius: 6px;
+}
